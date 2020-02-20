@@ -62,3 +62,4 @@ To connect the Sensirion shield to the Arduino Nano you need an adapter, e.g. th
 To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 
 ### Sending data to TheThingsNetwork with the Dragino LoRaWAN shield
+Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF).

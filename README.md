@@ -8,7 +8,7 @@ The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense)
 
 It uses 3.3V logic, here is the pinout:
 
-<img src="https://content.arduino.cc/assets/Pinout-NANOsense_latest.png" width="512" border="1" />
+<img src="https://content.arduino.cc/assets/Pinout-NANOsense_latest.png" width="512" style="border-color: coral; border-width: thin;" />
 
 ### Getting started with Arduino Nano BLE
 

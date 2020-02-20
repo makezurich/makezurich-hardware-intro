@@ -1,4 +1,5 @@
-# #MakeZurich Hardware Intro
+# #MakeZurich hardware intro
+Hello, this is some of the hardware available at the [MakeZurich.ch](http://makezurich.ch/) hackdays.
 
 ## Arduino Nano BLE Sense
 

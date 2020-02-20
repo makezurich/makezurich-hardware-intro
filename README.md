@@ -1,4 +1,4 @@
-# MakeZurich Hardware Intro
+# #MakeZurich Hardware Intro
 
 ## Arduino Nano BLE Sense
 

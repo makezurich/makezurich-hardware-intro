@@ -25,9 +25,9 @@ The Arduino Nano BLE Sense has a light intensity sensor, the ...
 It can detect gestures, proximity, light color and light intensity.
 
 ### Measuring orientation in space of the Nano
-The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU), the [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf).
+The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU).
 
-This IMU includes an accelerometer, a gyroscope and a magnetometer.
+The [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) includes an accelerometer, a gyroscope and a magnetometer.
 
 To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the examples.
 

@@ -4,7 +4,7 @@ Hello, this is some of the hardware available at [MakeZurich.ch](http://makezuri
 Found a bug or have a question? [Create an issue](../../issues).
 
 ## Arduino Nano BLE Sense
-The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller with sensors and Bluetooth Low Energy (BLE) connectivity.
+The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller.
 
 It uses 3.3V logic, here is the pinout:
 

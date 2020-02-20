@@ -16,13 +16,13 @@ See https://www.arduino.cc/en/Guide/NANO33BLESense
 
 ### Using onboard sensors
 
-> The Arduino Nano 33 BLE Sense is a completely new board on a well-known form factor. It comes with a series of embedded sensors:
-
-> * 9 axis inertial sensor: what makes this board ideal for wearable devices
-> * humidity, and temperature sensor: to get highly accurate measurements of the environmental conditions
-> * barometric sensor: you could make a simple weather station
-> * microphone: to capture and analyse sound in real time
-> * gesture, proximity, light color and light intensity sensor : estimate the room’s luminosity, but also whether someone is moving close to the board
+> The Arduino Nano 33 BLE Sense [...] comes with a series of embedded sensors:
+>
+> * 9 axis inertial sensor
+> * humidity, and temperature sensor
+> * barometric sensor
+> * microphone
+> * gesture, proximity, light color and light intensity sensor
 
 ### Measuring TVOC & CO2 with ESS-C3
 

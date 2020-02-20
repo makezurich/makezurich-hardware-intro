@@ -8,6 +8,8 @@ The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense)
 
 It uses 3.3V logic, [here is the pinout](https://content.arduino.cc/assets/Pinout-NANOsense_latest.png).
 
+[Arduino Nano BLE Sense](https://content.arduino.cc/assets/Pinout-NANOsense_latest.png)
+
 ### Getting started with Arduino Nano BLE
 
 ### Using the onboard accelerometer and other sensors

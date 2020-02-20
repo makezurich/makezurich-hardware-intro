@@ -18,7 +18,7 @@ See https://www.arduino.cc/en/Guide/NANO33BLESense
 The Arduino Nano BLE Sense comes with a series of embedded sensors.
 
 #### Measuring orientation in space with the LSM9DS1 IMU
-[LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) is a 9 axis inertial measuring unit (IMU).
+The Arduino Nano BLE Sense includes a 9 axis inertial measuring unit (IMU), the [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf).
 
 This IMU includes a 3D accelerometer, 3D gyroscope and 3D magnetometer.
 
@@ -31,10 +31,13 @@ To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Refere
 > * gesture, proximity, light color and light intensity sensor
 
 ### Measuring TVOC & CO2 with ESS-C3
+The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) contains environmental sensors to measure temperature, humidity, TVOC and CO2.
+
+To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
+
+To connect the Sensirion shield to the Arduino Nano you need an adapter, e.g. the [NanUno v2](https://www.thingiverse.com/thing:4171213).
 
 ### Sending data to TheThingsNetwork with LoRaWAN
-
-Install the Sensirion library, as described in https://github.com/Sensirion/arduino-ess and check the examples.
 
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 

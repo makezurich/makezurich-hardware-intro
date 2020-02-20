@@ -10,7 +10,7 @@
 
 ### Measuring temperature, humidity, TVOC and CO2 with the Sensirion ESS-C3 SGPC3 shield
 
-Install the Sensirion library, as described in https://github.com/Sensirion/arduino-ess and check examples.
+Install the Sensirion library, as described in https://github.com/Sensirion/arduino-ess and check the examples.
 
 ### Reading data on the Arduino Nano BLE Sense from a phone or laptop with Bluetooth Low Energy
 

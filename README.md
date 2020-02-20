@@ -54,6 +54,11 @@ The Uno uses 5V logic, the pinout is printed right on the board:
 
 ### Getting started
 
-### Measuring TVOC & CO2 with ESS-C3
+### Measuring air quality with the Sensirion ESS-C3 shield
+The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
 
-### Sending data to TheThingsNetwork with LoRaWAN
+To connect the Sensirion shield to the Arduino Nano you need an adapter, e.g. the [NanUno v2](https://www.thingiverse.com/thing:4171213).
+
+To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
+
+### Sending data to TheThingsNetwork with the Dragino LoRaWAN shield

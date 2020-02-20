@@ -14,10 +14,10 @@ It uses 3.3V logic, here is the pinout:
 
 See https://www.arduino.cc/en/Guide/NANO33BLESense
 
-### Measuring orientation in space with the Nano
+### Measuring orientation in space of the Nano
 The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU), the [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf).
 
-This IMU includes an accelerometer, a gyroscope and a magnetometer.
+This IMU includes an accelerometer, a gyroscope and a magnetometer, all im 3D space.
 
 To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the examples.
 

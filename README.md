@@ -24,7 +24,7 @@ Install the Sensirion library, as described in https://github.com/Sensirion/ardu
 The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.
 
 It uses 5V logic, the pinout is printed on the board:
-![https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1000x750/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_2_2.jpg]
+![Arduino Uno](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1000x750/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_2_2.jpg)
 
 ### Getting started with the Arduino Uno
 

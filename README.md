@@ -10,8 +10,7 @@ It uses 3.3V logic, here is the pinout:
 
 <img src="https://live.staticflickr.com/65535/49558575858_893cb7d59e_b.jpg" width="512" style="border-color: coral; border-width: thin;" />
 
-### Getting started
-
+### Getting started with the Nano
 See https://www.arduino.cc/en/Guide/NANO33BLESense
 
 ### Measuring humidity and temperature with the Nano

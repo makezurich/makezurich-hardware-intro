@@ -39,7 +39,7 @@ The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environm
 
 To connect the Sensirion shield to the Nano you need a hardware adapter, e.g. the [NanUno v2](https://www.thingiverse.com/thing:4171213).
 
-To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
+To use the sensors, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 
 ### Sending data to TheThingsNetwork with the Murata LoRaWAN module
 TODO

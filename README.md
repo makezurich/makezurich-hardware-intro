@@ -4,6 +4,7 @@ Hello, this is some of the hardware available at [MakeZurich.ch](http://makezuri
 Found a bug or have a question? [Create an issue](../../issues).
 
 ## Arduino Nano BLE Sense
+The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller. It uses 3V logic (not sure what that means? no worries!).
 
 ### Getting started with Arduino Nano BLE
 

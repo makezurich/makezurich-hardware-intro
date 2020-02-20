@@ -21,7 +21,7 @@ Install the Sensirion library, as described in https://github.com/Sensirion/ardu
 ### Reading data on the Arduino Nano BLE Sense from a phone or laptop with Bluetooth Low Energy
 
 ## Arduino Uno
-The [Arduino Uno](https://store.arduino.cc/arduino-uno) is a microcontroller.
+The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.
 
 It uses 5V logic, here's the pinout:
 

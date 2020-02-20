@@ -1,4 +1,4 @@
-# #MakeZurich hackathon hardware intro
+# #MakeZurich hardware intro
 Hello, this is some of the hardware available at [MakeZurich.ch](http://makezurich.ch/).
 
 Found a bug or have a question? [Create an issue](../../issues).

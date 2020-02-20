@@ -4,7 +4,7 @@ Hello, this is some of the hardware available at [MakeZurich.ch](http://makezuri
 Found a bug or have a question? [Create an issue](../../issues).
 
 ## Arduino Nano BLE Sense
-The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller. It uses 3V logic (not sure what that means? no worries!).
+The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller. It uses 3.3V logic.
 
 ### Getting started with Arduino Nano BLE
 
@@ -19,6 +19,7 @@ Install the Sensirion library, as described in https://github.com/Sensirion/ardu
 ### Reading data on the Arduino Nano BLE Sense from a phone or laptop with Bluetooth Low Energy
 
 ## Arduino Uno
+The [Arduino Uno](https://store.arduino.cc/arduino-uno) is a microcontroller. It uses 5V logic.
 
 ### Getting started with the Arduino Uno
 

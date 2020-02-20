@@ -8,7 +8,7 @@ The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense)
 
 It uses 3.3V logic, [here is the pinout](https://content.arduino.cc/assets/Pinout-NANOsense_latest.png).
 
-![Arduino Nano BLE Sense Pinout](https://content.arduino.cc/assets/Pinout-NANOsense_latest.png) <!-- .element height="50%" width="50%" -->
+<img src="https://content.arduino.cc/assets/Pinout-NANOsense_latest.png" width="512" />
 
 ### Getting started with Arduino Nano BLE
 
@@ -27,7 +27,7 @@ The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontrolle
 
 It uses 5V logic, the pinout is printed right on the board:
 
-![Arduino Uno](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_3.jpg | width=240)
+<img src="https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_3.jpg" width="512" />
 
 ### Getting started with the Arduino Uno
 

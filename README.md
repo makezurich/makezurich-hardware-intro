@@ -37,9 +37,9 @@ The Arduino Nano BLE Sense has a built-in microphone, the ...
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
 
-To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
-
 To connect the Sensirion shield to the Arduino Nano you need an adapter, e.g. the [NanUno v2](https://www.thingiverse.com/thing:4171213).
+
+To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 
 ### Sending data to TheThingsNetwork with LoRaWAN
 

@@ -25,7 +25,7 @@ The Arduino Nano BLE Sense has a light intensity sensor, the ...
 It can detect gestures, proximity, light color and light intensity.
 
 ### Measuring orientation in space of the Nano
-The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU).
+The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU) built-in.
 
 The [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) includes an accelerometer, a gyroscope and a magnetometer.
 
@@ -35,7 +35,7 @@ To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Refere
 The Arduino Nano BLE Sense has a built-in microphone, the ...
 
 ### Measuring air quality with the Sensirion ESS-C3 shield
-The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) contains environmental sensors to measure temperature, humidity, TVOC and CO2.
+The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
 
 To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 

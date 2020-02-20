@@ -6,7 +6,7 @@ Found a bug or have a question? [Submit an issue](../../issues).
 ## Arduino Nano BLE Sense
 The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller, a small computer that runs a single program.
 
-The Nano uses 3.3V logic, here is the pinout:
+The Nano uses 3.3V logic. Here is the pinout, a map of all general purpose input/output (GPIO) ports:
 
 <img src="https://live.staticflickr.com/65535/49558575858_893cb7d59e_b.jpg" width="512" style="border-color: coral; border-width: thin;" />
 
@@ -48,7 +48,7 @@ TODO
 TODO
 
 ## Arduino Uno
-The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller, a small computer that runs a single program.
+The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.
 
 The Uno uses 5V logic, the pinout is printed right on the board:
 

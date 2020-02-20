@@ -15,10 +15,16 @@ It uses 3.3V logic, here is the pinout:
 See https://www.arduino.cc/en/Guide/NANO33BLESense
 
 ### Using onboard sensors
+The Arduino Nano BLE Sense comes with a series of embedded sensors.
 
-> The Arduino Nano 33 BLE Sense [...] comes with a series of embedded sensors:
->
-> * 9 axis inertial sensor
+#### Measuring orientation in space with the LSM9DS1 IMU
+[LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) is a 9 axis inertial measuring unit (IMU).
+
+This IMU includes a 3D accelerometer, 3D gyroscope and 3D magnetometer.
+
+To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the examples.
+
+### Measuring 
 > * humidity, and temperature sensor
 > * barometric sensor
 > * microphone

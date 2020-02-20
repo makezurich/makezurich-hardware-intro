@@ -55,7 +55,7 @@ The Uno uses *5V* logic, the pinout is printed right on the board:
 <img src="https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_3.jpg" width="512" />
 
 ### Getting started with the Uno
-Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF).
+Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF, p.10 - p.41).
 
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
@@ -63,4 +63,4 @@ The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environm
 To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 
 ### Sending data to TheThingsNetwork with the Dragino LoRaWAN shield
-Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF).
+Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF p.42 - p.63).

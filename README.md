@@ -6,7 +6,7 @@ Found a bug or have a question? [Create an issue](../../issues).
 ## Arduino Nano BLE Sense
 The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller.
 
-It uses 3.3V logic, [here is the pinout](https://content.arduino.cc/assets/Pinout-NANOsense_latest.png).
+It uses 3.3V logic, here is the pinout:
 
 <img src="https://content.arduino.cc/assets/Pinout-NANOsense_latest.png" width="512" />
 

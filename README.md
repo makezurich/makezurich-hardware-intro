@@ -14,13 +14,6 @@ It uses 3.3V logic, here is the pinout:
 
 See https://www.arduino.cc/en/Guide/NANO33BLESense
 
-### Measuring orientation in space of the Nano
-The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU), the [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf).
-
-This IMU includes an accelerometer, a gyroscope and a magnetometer, all im 3D space.
-
-To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the examples.
-
 ### Measuring humidity and temperature with the Nano
 The Arduino Nano BLE Sense has a humidity and temperature sensor, the ...
 
@@ -32,10 +25,17 @@ The Arduino Nano BLE Sense has a light intensity sensor, the ...
 
 It can detect gestures, proximity, light color and light intensity.
 
-### Recording audio with the Nano
+### Measuring orientation in space of the Nano
+The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU), the [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf).
+
+This IMU includes an accelerometer, a gyroscope and a magnetometer, all im 3D space.
+
+To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the examples.
+
+### Measuring noise and recording audio with the Nano
 The Arduino Nano BLE Sense has a built-in microphone, the ...
 
-### Measuring air quality (TVOC & CO2) with ESS-C3
+### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) contains environmental sensors to measure temperature, humidity, TVOC and CO2.
 
 To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.

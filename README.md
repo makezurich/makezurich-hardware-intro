@@ -4,7 +4,7 @@ Hello, this is some of the hardware available at [MakeZurich.ch](http://makezuri
 Found a bug or have a question? [Submit an issue](../../issues).
 
 ## Arduino Nano BLE Sense
-The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller.
+The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller, a small computer that runs a single program.
 
 The Nano uses 3.3V logic, here is the pinout:
 
@@ -48,7 +48,7 @@ TODO
 TODO
 
 ## Arduino Uno
-The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.
+The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller, a small computer that runs a single program.
 
 The Uno uses 5V logic, the pinout is printed right on the board:
 

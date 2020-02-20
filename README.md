@@ -10,17 +10,17 @@ It uses 3.3V logic, here is the pinout:
 
 <img src="https://content.arduino.cc/assets/Pinout-NANOsense_latest.png" width="512" style="border-color: coral; border-width: thin;" />
 
-### Getting started with Arduino Nano BLE
+### Getting started
 
-### Using the onboard accelerometer and other sensors
+### Using onboard sensors
 
-### Sending data to TheThingsNetwork backend with LoRaWAN using the Murata shield
+### Measuring TVOC & CO2 with ESS-C3
 
-### Measuring temperature, humidity, TVOC and CO2 with the Sensirion ESS-C3 SGPC3 shield
+### Sending data to TheThingsNetwork with LoRaWAN
 
 Install the Sensirion library, as described in https://github.com/Sensirion/arduino-ess and check the examples.
 
-### Reading data on the Arduino Nano BLE Sense from a phone or laptop with Bluetooth Low Energy
+### Sending data from the Nano with Bluetooth Low Energy (BLE)
 
 ## Arduino Uno
 The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.
@@ -29,6 +29,8 @@ It uses 5V logic, the pinout is printed right on the board:
 
 <img src="https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_3.jpg" width="512" />
 
-### Getting started with the Arduino Uno
+### Getting started
 
-### Sending data to TheThingsNetwork backend with LoRaWAN using the DraginoShield v1.4 shield
+### Measuring TVOC & CO2 with ESS-C3
+
+### Sending data to TheThingsNetwork with LoRaWAN

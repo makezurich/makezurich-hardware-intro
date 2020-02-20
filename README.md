@@ -1,7 +1,7 @@
 # #MakeZurich hardware intro
 Hello, this is some of the hardware available at [MakeZurich.ch](http://makezurich.ch/).
 
-Found a bug or have a question? [Create an issue](../../issues).
+Found a bug or have a question? [Submit an issue](../../issues).
 
 ## Arduino Nano BLE Sense
 The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller.

@@ -73,6 +73,8 @@ Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIo
 ### Installing a library for the Uno
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 
+Then check the *File > Examples > LIBRARY_NAME* menu in the Arduino IDE.
+
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
 

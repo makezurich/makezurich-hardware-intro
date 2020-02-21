@@ -19,13 +19,6 @@ The Arduino Nano BLE Sense has a humidity and temperature sensor, the ...
 ### Measuring barometric pressure with the Nano
 The Arduino Nano BLE Sense has a barometric pressure sensor, the ...
 
-### Measuring gestures, color or proximity with the Nano
-The Arduino Nano BLE Sense has a light intensity sensor, the [APDS9960](https://docs.broadcom.com/docs/AV02-4191EN).
-
-The multifunctional sensor can detect gestures, light color and proximity.
-
-To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the examples.
-
 ### Measuring orientation in space of the Nano
 The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU) built-in.
 
@@ -37,6 +30,13 @@ To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Refere
 The Arduino Nano BLE Sense has a built-in microphone, the [MP34DT05](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf) which outputs [PDM signals](https://en.wikipedia.org/wiki/Pulse-density_modulation).
 
 To use it, install the [PDM library](https://www.arduino.cc/en/Reference/PDM) and the [ArduinoSound library](https://www.arduino.cc/en/Reference/ArduinoSound) and check the examples.
+
+### Measuring gestures, color or proximity with the Nano
+The Arduino Nano BLE Sense has a light intensity sensor, the [APDS9960](https://docs.broadcom.com/docs/AV02-4191EN).
+
+The multifunctional sensor can detect gestures, light color and proximity.
+
+To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the examples.
 
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.

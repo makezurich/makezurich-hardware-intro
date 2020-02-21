@@ -32,7 +32,9 @@ The [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) includes an 
 To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the examples.
 
 ### Measuring noise and recording audio with the Nano
-The Arduino Nano BLE Sense has a built-in microphone, the ...
+The Arduino Nano BLE Sense has a built-in microphone, the [MP34DT05](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf).
+
+To use it, install the [PDM library](https://www.arduino.cc/en/Reference/PDM) and the [ArduinoSound library](https://www.arduino.cc/en/Reference/ArduinoSound) and check the examples.
 
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.

@@ -14,7 +14,9 @@ The Nano uses *3.3V* logic. Here is the pinout, a map of all general purpose inp
 See https://www.arduino.cc/en/Guide/NANO33BLESense
 
 ### Measuring humidity and temperature with the Nano
-The Arduino Nano BLE Sense has a humidity and temperature sensor, the ...
+The Arduino Nano BLE Sense has a humidity and temperature sensor, the [HTS221](https://www.st.com/resource/en/datasheet/HTS221.pdf).
+
+To use it, install the [ArduinoHTS221 library](https://www.arduino.cc/en/Reference/ArduinoHTS221) and check the examples.
 
 ### Measuring barometric pressure with the Nano
 The Arduino Nano BLE Sense has a barometric pressure sensor, the [LPS22HB](https://www.st.com/resource/en/datasheet/lps22hb.pdf).

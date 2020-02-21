@@ -11,7 +11,7 @@ The Nano uses *3.3V* logic. Here is the pinout, a map of all general purpose inp
 <img src="https://live.staticflickr.com/65535/49558575858_893cb7d59e_b.jpg" width="512" style="border-color: coral; border-width: thin;" />
 
 ### Getting started with the Nano
-Follow this [guide to get started with the Arduino Nano BLE Sense](https://www.arduino.cc/en/Guide/NANO33BLESense).
+Follow this guide to [get started with the Arduino Nano BLE Sense](https://www.arduino.cc/en/Guide/NANO33BLESense).
 
 ### Installing a library for the Nano
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).

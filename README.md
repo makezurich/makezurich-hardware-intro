@@ -19,10 +19,10 @@ The Arduino Nano BLE Sense has a humidity and temperature sensor, the ...
 ### Measuring barometric pressure with the Nano
 The Arduino Nano BLE Sense has a barometric pressure sensor, the ...
 
-### Measuring gestures, proximity, light color or intensity with the Nano
+### Measuring gestures, color and proximity with the Nano
 The Arduino Nano BLE Sense has a light intensity sensor, the [APDS9960](https://docs.broadcom.com/docs/AV02-4191EN).
 
-It can detect gestures, proximity, light color and light intensity.
+The multifunctional sensor can detect gestures, light color and proximity.
 
 To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the examples.
 

@@ -17,7 +17,9 @@ See https://www.arduino.cc/en/Guide/NANO33BLESense
 The Arduino Nano BLE Sense has a humidity and temperature sensor, the ...
 
 ### Measuring barometric pressure with the Nano
-The Arduino Nano BLE Sense has a barometric pressure sensor, the ...
+The Arduino Nano BLE Sense has a barometric pressure sensor, the [LPS22HB](https://www.st.com/resource/en/datasheet/lps22hb.pdf).
+
+To use it, install the [ArduinoLPS22HB library](https://www.arduino.cc/en/Reference/ArduinoLPS22HB) and check the examples.
 
 ### Measuring orientation in space of the Nano
 The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU) built-in.

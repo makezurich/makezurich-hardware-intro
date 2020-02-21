@@ -13,6 +13,9 @@ The Nano uses *3.3V* logic. Here is the pinout, a map of all general purpose inp
 ### Getting started with the Nano
 See https://www.arduino.cc/en/Guide/NANO33BLESense
 
+### Installing a library for the Nano
+Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
+
 ### Measuring humidity and temperature with the Nano
 The Arduino Nano BLE Sense has a humidity and temperature sensor, the [HTS221](https://www.st.com/resource/en/datasheet/HTS221.pdf).
 
@@ -64,6 +67,9 @@ The Uno uses *5V* logic, the pinout is printed right on the board:
 
 ### Getting started with the Uno
 Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF, p.10 - p.41).
+
+### Installing a library for the Uno
+Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.

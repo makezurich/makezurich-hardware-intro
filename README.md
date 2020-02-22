@@ -55,7 +55,7 @@ To connect the Sensirion shield to the Nano you can use the [TODO]() or a [NanUn
 To use the sensors, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 
 ### Sending data to TheThingsNetwork with the Murata LoRaWAN module
-The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN), an open LoRaWAN network.
+The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN).
 
 To connect the Murata board to the Nano you can use the [TODO]() hardware adapter.
 

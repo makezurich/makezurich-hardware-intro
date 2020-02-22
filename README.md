@@ -141,7 +141,7 @@ Available on [AliExpress](https://www.aliexpress.com/item/32830950459.html).
 
 50x leds, 1x rgb led, 2x photoresistors, 1x thermistor, 5x diode rectifiers, 5x npn transistor, 1x IC 4N35, 1x IC 74HC595, 10x buttons, 2x buzzers (active and passive), 1x potentiometer, 10x 22pf c. caps, 10x 104 c. caps, 5x e. caps 10uf, 5x e caps 100uf, 100x resistors (5x of each: 10R, 100R, 220R, 330R, 1K, 2K, 5K, 10K, 100K, 1M, pin headers)
 
-### Level shifter
+### Level shifter 3.3V to 5V
 Available on [AliExpress](https://www.aliexpress.com/item/32690066582.html).
 
 ## License

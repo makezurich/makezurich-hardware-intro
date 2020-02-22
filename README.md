@@ -27,7 +27,7 @@ The [Arduino language](https://www.arduino.cc/reference/en/) is very similar to 
 
 This is Blink.ino, the Hello World of embedded programming:
 ```
-int ledPin = LED_BUILTIN;
+int ledPin = 13;
 
 void setup() { // runs once
   pinMode(ledPin, OUTPUT);

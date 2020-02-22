@@ -50,12 +50,14 @@ To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Refer
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
 
-To connect the Sensirion shield to the Nano you need a hardware adapter, e.g. the [NanUno v2](https://www.thingiverse.com/thing:4171213).
+To connect the Sensirion shield to the Nano you can use the [TODO]() or a [NanUno v2](https://www.thingiverse.com/thing:4171213) hardware adapter.
 
 To use the sensors, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 
 ### Sending data to TheThingsNetwork with the Murata LoRaWAN module
-TODO
+The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN), an open LoRaWAN network.
+
+To connect the Murata board to the Nano you can use the [TODO]() hardware adapter.
 
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 TODO

@@ -133,7 +133,7 @@ The following electronic components are part of the MakeZurich kit.
 As a simple rule, before connecting anything, unplug the power / USB cable.
 
 ### Breadboard
-A [breadbord](https://www.aliexpress.com/item/32690555189.html) allows you to prototype electronic circuits.
+A [breadboard](https://www.aliexpress.com/item/32690555189.html) allows you to prototype electronic circuits.
 
 ### Jumper wires
 [Jumper wires](https://www.aliexpress.com/item/32825083543.html) allow you to connect the Arduino to additional modules and components on a breadboard.

@@ -18,6 +18,10 @@ The IDE (integrated development environment) is a simple tool to write, build an
 ### Getting started with the Nano
 Follow this guide to [get started with the Arduino Nano BLE Sense](https://www.arduino.cc/en/Guide/NANO33BLESense#toc2).
 
+Or just open *Tools > Board > Board Manager...* and add the *Arduino nRF528x Boards* package.
+
+Then select *Tools > Board > Arduino NANO 33 BLE*, connect the Nano via USB and select it in *Tools > Port*.
+
 ### Learning the Arduino language
 The [Arduino language](https://www.arduino.cc/reference/en/) is very similar to C, libraries are written in C++.
 

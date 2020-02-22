@@ -133,26 +133,18 @@ The following electronic components are part of the MakeZurich kit.
 As a simple rule, before connecting anything, unplug the power / USB cable.
 
 ### Breadboard
-A breadbord allows you to prototype electronic circuits.
-
-Available on [AliExpress](https://www.aliexpress.com/item/32690555189.html).
+A [breadbord](https://www.aliexpress.com/item/32690555189.html) allows you to prototype electronic circuits.
 
 ### Jumper wires
-Jumper wires allow you to connect the Arduino to additional modules and components on a breadboard.
-
-Available on [AliExpress](https://www.aliexpress.com/item/32825083543.html).
+(Jumper wires](https://www.aliexpress.com/item/32825083543.html) allow you to connect the Arduino to additional modules and components on a breadboard.
 
 ### Basic components
-Basic componentes like LEDs, resistors and buttons allow you to add input and output capabilities to your Arduino.
+(Basic componentes](https://www.aliexpress.com/item/32830950459.html) like LEDs, resistors and buttons allow you to add input and output capabilities to your Arduino.
 
 50x leds, 1x rgb led, 2x photoresistors, 1x thermistor, 5x diode rectifiers, 5x npn transistor, 1x IC 4N35, 1x IC 74HC595, 10x buttons, 2x buzzers (active and passive), 1x potentiometer, 10x 22pf c. caps, 10x 104 c. caps, 5x e. caps 10uf, 5x e caps 100uf, 100x resistors (5x of each: 10R, 100R, 220R, 330R, 1K, 2K, 5K, 10K, 100K, 1M, pin headers)
 
-Available on [AliExpress](https://www.aliexpress.com/item/32830950459.html).
-
 ### Level shifter 3.3 to 5V
-A level shifter is required to connect 3V3 modules to an Arduino Uno which uses 5V logic.
-
-Available on [AliExpress](https://www.aliexpress.com/item/32690066582.html).
+A [level shifter](https://www.aliexpress.com/item/32690066582.html) is required to connect 3V3 modules to an Arduino Uno which uses 5V logic.
 
 ## License
 This tutorial by [MakeZurich.ch](http://makezurich.ch/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

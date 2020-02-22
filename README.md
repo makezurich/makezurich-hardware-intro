@@ -110,6 +110,8 @@ Or just select *Tools > Board > Arduino/Genuino Uno*.
 
 Then plug in the Uno via USB and select it in the *Tools > Port* menu.
 
+Then open *File > Examples > Basics > Blink* and click the ⮕ *Upload* button.
+
 ### Installing a library for the Uno
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 

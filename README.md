@@ -138,12 +138,12 @@ A breadbord allows you to prototype electronic circuits.
 Available on [AliExpress](https://www.aliexpress.com/item/32690555189.html).
 
 ### Jumper wires
-Jumper wires allow you to connect modules on a breadboard.
+Jumper wires allow you to connect the Arduino to additional modules and components on a breadboard.
 
 Available on [AliExpress](https://www.aliexpress.com/item/32825083543.html).
 
 ### Basic components
-Basic componentes like LEDs, resistors and buttons allow you to prototype interactive objects.
+Basic componentes like LEDs, resistors and buttons allow you to add input and output capabilities to your Arduino.
 
 Available on [AliExpress](https://www.aliexpress.com/item/32830950459.html).
 

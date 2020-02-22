@@ -86,17 +86,17 @@ To connect the Sensirion shield to the Nano you can use the [TODO]() or a [NanUn
 
 To use the sensors, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the examples.
 
-### Sending data to TheThingsNetwork with the Murata LoRaWAN board
-The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN).
-
-To connect the Murata board to the Nano you can use the [TODO]() hardware adapter.
-
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 The Arduino Nano BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.
 
 This allows you to connect to the Nano from a phone, laptop or another BLE device.
 
 To use it, follow [this tutorial](https://www.arduino.cc/en/Reference/ArduinoBLE) or install the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE) and check the examples.
+
+### Sending data to TheThingsNetwork with the Murata LoRaWAN board
+The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN).
+
+To connect the Murata board to the Nano you can use the [TODO]() hardware adapter.
 
 ## Arduino Uno
 The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.

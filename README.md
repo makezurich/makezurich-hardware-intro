@@ -20,7 +20,7 @@ Follow this guide to [get started with the Arduino Nano BLE Sense](https://www.a
 
 Or just open *Tools > Board > Board Manager...* and add the *Arduino nRF528x Boards* package.
 
-Then select *Tools > Board > Arduino NANO 33 BLE*, connect the Nano via USB and select it in *Tools > Port*.
+Then select *Tools > Board > Arduino NANO 33 BLE*, connect the Nano via USB and select it in the *Tools > Port* menu.
 
 ### Learning the Arduino language
 The [Arduino language](https://www.arduino.cc/reference/en/) is very similar to C, libraries are written in C++.

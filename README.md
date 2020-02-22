@@ -62,7 +62,7 @@ To connect the Murata board to the Nano you can use the [TODO]() hardware adapte
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 The Arduino Nano BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.
 
-This allows you to connect to the Nano from a phone, laptop or any other BLE device.
+This allows you to connect to the Nano from a phone, laptop or another BLE device.
 
 To use it, follow [this tutorial](https://www.arduino.cc/en/Reference/ArduinoBLE) or install the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE) and check the examples.
 

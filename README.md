@@ -22,7 +22,7 @@ Or just open *Tools > Board > Board Manager...* and add the *Arduino nRF528x Boa
 
 Then select *Tools > Board > Arduino NANO 33 BLE*, plug in the Nano via USB and select it in the *Tools > Port* menu.
 
-Finally, open *File > Examples > Basics > Blink* and click the ⮕ *Upload* button.
+Finally, open *File > Examples > Basics > Blink* and click the ⮕ *Upload* button (in case of driver issues check the guide above).
 
 ### Learning the Arduino language
 The [Arduino language](https://www.arduino.cc/reference/en/) is very similar to C, libraries are written in C++.

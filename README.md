@@ -25,7 +25,7 @@ Then select *Tools > Board > Arduino NANO 33 BLE*, connect the Nano via USB and 
 ### Learning the Arduino language
 The [Arduino language](https://www.arduino.cc/reference/en/) is very similar to C, libraries are written in C++.
 
-This is Blink.ino, the Hello World of embedded programming:
+This is *Blink*, the *Hello, World!* of embedded programming:
 ```
 int ledPin = 13;
 

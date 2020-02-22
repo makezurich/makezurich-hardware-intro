@@ -106,6 +106,8 @@ The Uno uses *5V* logic, the pinout is printed right on the board:
 ### Getting started with the Uno
 Follow the steps in [this tutorial](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF, p.10 - p.41).
 
+Or select *Tools > Board > Arduino/Genuino Uno*, connect the Uno via USB and select it in the *Tools > Port* menu.
+
 ### Installing a library for the Uno
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 

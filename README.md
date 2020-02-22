@@ -13,7 +13,7 @@ The Nano uses *3.3V* logic. Here is the pinout, a map of all general purpose inp
 ### Installing the Arduino IDE
 [Download the Arduino IDE](https://www.arduino.cc/en/Main/Software), we recommend the desktop version.
 
-IDE stands for Integrated development environment, a simple tool to write, build and deploy programs.
+IDE stands for integrated development environment, a simple tool to write, build and deploy programs for the Arduino.
 
 ### Getting started with the Nano
 Follow this guide to [get started with the Arduino Nano BLE Sense](https://www.arduino.cc/en/Guide/NANO33BLESense#toc2).

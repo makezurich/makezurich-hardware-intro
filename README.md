@@ -44,6 +44,8 @@ void loop() { // runs forever
 ### Installing a library for the Nano
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 
+Or just open *Sketch > Include library > Manage libraries...* and type the library name.
+
 Then check the *File > Examples > LIBRARY_NAME* menu in the Arduino IDE.
 
 ### Measuring humidity and temperature with the Nano

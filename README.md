@@ -130,6 +130,8 @@ Follow the steps in [LoRaWAN IoT with Arduino Uno](http://www.tamberg.org/chopen
 ## Electronics
 The following electronic components are part of the MakeZurich kit.
 
+As a simple rule, before connecting anything, unplug the power / USB cable.
+
 ### Breadboard
 Available on [AliExpress](https://www.aliexpress.com/item/32690555189.html).
 

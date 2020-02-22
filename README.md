@@ -53,7 +53,7 @@ Then check the *File > Examples > LIBRARY_NAME* menu in the Arduino IDE.
 ### Measuring humidity and temperature with the Nano
 The Arduino Nano BLE Sense has a humidity and temperature sensor, the [HTS221](https://www.st.com/resource/en/datasheet/HTS221.pdf).
 
-To use it, install the [ArduinoHTS221 library](https://www.arduino.cc/en/Reference/ArduinoHTS221) and check the examples.
+To use it, install the [ArduinoHTS221 library](https://www.arduino.cc/en/Reference/ArduinoHTS221) and check the [examples](https://github.com/arduino-libraries/Arduino_HTS221/blob/master/examples).
 
 ### Measuring barometric pressure with the Nano
 The Arduino Nano BLE Sense has a barometric pressure sensor, the [LPS22HB](https://www.st.com/resource/en/datasheet/lps22hb.pdf).

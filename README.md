@@ -143,3 +143,6 @@ Available on [AliExpress](https://www.aliexpress.com/item/32830950459.html).
 
 ### Level shifter
 Available on [AliExpress](https://www.aliexpress.com/item/32690066582.html).
+
+## License
+This tutorial by [MakeZurich.ch](http://makezurich.ch/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

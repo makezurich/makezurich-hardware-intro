@@ -32,7 +32,7 @@ This is *Blink*, the *Hello, World!* of embedded programming:
 int ledPin = 13;
 
 void setup() { // runs once
-  pinMode(ledPin, OUTPUT);
+  pinMode(ledPin, OUTPUT); // configure the LED pin
 }
 
 void loop() { // runs forever

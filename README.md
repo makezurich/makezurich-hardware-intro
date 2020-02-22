@@ -150,6 +150,8 @@ Basic componentes like LEDs, resistors and buttons allow you to add input and ou
 Available on [AliExpress](https://www.aliexpress.com/item/32830950459.html).
 
 ### Level shifter 3.3 to 5V
+A level shifter is required to connect 3V3 modules to an Arduino Uno which uses 5V logic.
+
 Available on [AliExpress](https://www.aliexpress.com/item/32690066582.html).
 
 ## License

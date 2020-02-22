@@ -25,6 +25,22 @@ Then select *Tools > Board > Arduino NANO 33 BLE*, connect the Nano via USB and 
 ### Learning the Arduino language
 The [Arduino language](https://www.arduino.cc/reference/en/) is very similar to C, libraries are written in C++.
 
+This is Blink.ino, the Hello World of embedded programming:
+```
+int ledPin = LED_BUILTIN;
+
+void setup() { // runs once
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() { // runs forever
+  digitalWrite(ledPin, HIGH); // turn the LED pin on
+  delay(1000);                // wait for 1000ms = 1s
+  digitalWrite(ledPin, LOW);  // turn the LED pin off
+  delay(1000);                // wait again
+}
+```
+
 ### Installing a library for the Nano
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 

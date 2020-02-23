@@ -3,8 +3,8 @@ Introducing some of the hardware available at [MakeZurich.ch](http://makezurich.
 
 Found a bug or have a question? [Submit an issue](../../issues).
 
-## Arduino Nano BLE Sense
-The [Arduino Nano BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller, a small computer that runs a single program.
+## Arduino Nano 33 BLE Sense
+The [Arduino Nano 33 BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller, a small computer that runs a single program.
 
 The Nano uses *3.3V* logic. Here is the pinout, a map of all general purpose input/output (GPIO) pins:
 
@@ -16,7 +16,7 @@ The Nano uses *3.3V* logic. Here is the pinout, a map of all general purpose inp
 The IDE (integrated development environment) is a simple tool to write, build and deploy programs.
 
 ### Getting started with the Nano
-Follow this guide to [get started with the Arduino Nano BLE Sense](https://www.arduino.cc/en/Guide/NANO33BLESense#toc2).
+Follow this guide to [get started with the Arduino Nano 33 BLE Sense](https://www.arduino.cc/en/Guide/NANO33BLESense#toc2).
 
 Or just open *Tools > Board > Board Manager...* and add the *Arduino nRF528x Boards* package.
 
@@ -51,29 +51,29 @@ Or just open *Sketch > Include library > Manage libraries...* and type the libra
 Then check the *File > Examples > LIBRARY_NAME* menu in the Arduino IDE.
 
 ### Measuring humidity and temperature with the Nano
-The Arduino Nano BLE Sense has a humidity and temperature sensor, the [HTS221](https://www.st.com/resource/en/datasheet/HTS221.pdf).
+The Arduino Nano 33 BLE Sense has a humidity and temperature sensor, the [HTS221](https://www.st.com/resource/en/datasheet/HTS221.pdf).
 
 To use it, install the [ArduinoHTS221 library](https://www.arduino.cc/en/Reference/ArduinoHTS221) and check the [examples](https://github.com/arduino-libraries/Arduino_HTS221/blob/master/examples).
 
 ### Measuring barometric pressure with the Nano
-The Arduino Nano BLE Sense has a barometric pressure sensor, the [LPS22HB](https://www.st.com/resource/en/datasheet/lps22hb.pdf).
+The Arduino Nano 33 BLE Sense has a barometric pressure sensor, the [LPS22HB](https://www.st.com/resource/en/datasheet/lps22hb.pdf).
 
 To use it, install the [ArduinoLPS22HB library](https://www.arduino.cc/en/Reference/ArduinoLPS22HB) and check the [examples](https://github.com/arduino-libraries/ArduinoLPS22HB/blob/master/examples).
 
 ### Measuring orientation in space of the Nano
-The Arduino Nano BLE Sense has a 9-axis inertial measuring unit (IMU) built-in.
+The Arduino Nano 33 BLE Sense has a 9-axis inertial measuring unit (IMU) built-in.
 
 The [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) includes an accelerometer, a gyroscope and a magnetometer.
 
 To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the [examples](https://github.com/arduino-libraries/ArduinoLSM9DS1/blob/master/examples).
 
 ### Measuring noise and recording audio with the Nano
-The Arduino Nano BLE Sense has a built-in microphone, the [MP34DT05](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf) which outputs [PDM signals](https://en.wikipedia.org/wiki/Pulse-density_modulation).
+The Arduino Nano 33 BLE Sense has a built-in microphone, the [MP34DT05](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf) which outputs [PDM signals](https://en.wikipedia.org/wiki/Pulse-density_modulation).
 
 To use it, install the [PDM library](https://www.arduino.cc/en/Reference/PDM) and the [ArduinoSound library](https://www.arduino.cc/en/Reference/ArduinoSound) and check the [examples](https://github.com/arduino-libraries/ArduinoSound/blob/master/examples).
 
 ### Measuring gestures, color or proximity with the Nano
-The Arduino Nano BLE Sense has a light intensity sensor, the [APDS9960](https://docs.broadcom.com/docs/AV02-4191EN).
+The Arduino Nano 33 BLE Sense has a light intensity sensor, the [APDS9960](https://docs.broadcom.com/docs/AV02-4191EN).
 
 The multifunctional sensor can detect gestures, light color and proximity.
 
@@ -87,7 +87,7 @@ To connect the Sensirion shield to the Nano you can use the [TODO]() or a [NanUn
 To use the sensors, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the [examples](https://github.com/Sensirion/arduino-ess/blob/master/examples).
 
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
-The Arduino Nano BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.
+The Arduino Nano 33 BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.
 
 This allows you to connect to the Nano from a phone, laptop or another BLE device.
 

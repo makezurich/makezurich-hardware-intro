@@ -91,7 +91,7 @@ The Arduino Nano 33 BLE Sense has built-in Bluetooth Low Energy (BLE) connectivi
 
 This allows you to connect to the Nano from a phone, laptop or another BLE device.
 
-To use it, follow [this tutorial](https://www.arduino.cc/en/Reference/ArduinoBLE) or install the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE) and check the examples.
+To use it, follow [this tutorial](https://www.arduino.cc/en/Reference/ArduinoBLE) or install the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE) and check the [examples](https://github.com/arduino-libraries/ArduinoBLE/blob/master/examples).
 
 ### Sending data to TheThingsNetwork with the Murata LoRaWAN board
 The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN).

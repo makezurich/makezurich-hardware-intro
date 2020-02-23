@@ -77,7 +77,7 @@ The Arduino Nano 33 BLE Sense has a light intensity sensor, the [APDS9960](https
 
 The multifunctional sensor can detect gestures, light color and proximity.
 
-To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the examples.
+To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the [examples](https://github.com/arduino-libraries/ArduinoAPDS9960/blob/master/examples).
 
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.

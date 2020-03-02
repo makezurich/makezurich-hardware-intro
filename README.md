@@ -81,7 +81,7 @@ The multifunctional sensor can detect gestures, light color and proximity.
 
 To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the [examples](https://github.com/arduino-libraries/ArduinoAPDS9960/blob/master/examples).
 
-### Measuring air quality with the Sensirion ESS-C3 shield
+### Measuring TVOC and CO2 with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
 
 To connect it ([schematic](https://github.com/winkj/ess-hardware-docs/blob/master/ESS_Schematic.PDF)) to the Nano you can use the [TODO]() or a [NanUno v3](https://www.thingiverse.com/thing:4196198) hardware adapter.
@@ -91,7 +91,7 @@ To use the sensors, install the [Sensirion ESS library](https://github.com/Sensi
 <img src="https://live.staticflickr.com/65535/49607643343_59944102a7_n.jpg" width="240"/>
 
 ### Measuring particulate matter with the Sensirion SPS30 sensor
-The [Sensirion SPS30 sensor](https://www.sensirion.com/en/environmental-sensors/particulate-matter-sensors-pm25/) allows measuring pm25 particulate matter.
+The [Sensirion SPS30 sensor](https://www.sensirion.com/en/environmental-sensors/particulate-matter-sensors-pm25/) allows measuring particulate matter up to 2.5 micron (PM2.5).
 
 To use the sensor, install the [Sensirion SPS30 I2C library](https://github.com/Sensirion/arduino-sps) and check the [examples](https://github.com/Sensirion/arduino-sps/tree/master/examples/sps30).
 

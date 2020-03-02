@@ -90,6 +90,11 @@ To use the sensors, install the [Sensirion ESS library](https://github.com/Sensi
 
 <img src="https://live.staticflickr.com/65535/49607643343_59944102a7_n.jpg" width="240"/>
 
+### Measuring particulate matter with the Sensirion SPS30 sensor
+The [Sensirion SPS30 sensor](https://www.sensirion.com/en/environmental-sensors/particulate-matter-sensors-pm25/) allows measuring pm25 particulate matter.
+
+To use the sensor, install the [Sensirion SPS30 I2C library](https://github.com/Sensirion/arduino-sps) and check the [examples](https://github.com/Sensirion/arduino-sps/tree/master/examples/sps30).
+
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 The Arduino Nano 33 BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.
 

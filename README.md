@@ -102,6 +102,8 @@ The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l0
 
 To connect the Murata board to the Nano you can use the [TODO]() hardware adapter.
 
+To get your data from TTN, see [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).
+
 ## Arduino Uno
 The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.
 

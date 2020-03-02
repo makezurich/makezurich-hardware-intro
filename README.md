@@ -128,6 +128,8 @@ The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environm
 
 To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the [examples](https://github.com/Sensirion/arduino-ess/blob/master/examples).
 
+<img src="https://live.staticflickr.com/65535/49573769808_691fbd261f_n.jpg" width="240"/>
+
 ### Sending data to TheThingsNetwork with the Dragino LoRaWAN shield
 Follow the steps in [LoRaWAN IoT with Arduino Uno](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF, p.42 - p.63).
 

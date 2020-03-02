@@ -1,5 +1,5 @@
 # #MakeZurich hardware intro
-Introduction to some of the hardware available at [MakeZurich.ch](http://makezurich.ch/).
+Introduction to some of the hardware available at [#MakeZurich](http://makezurich.ch/).
 
 Found a bug or have a question? [Submit an issue](../../issues).
 

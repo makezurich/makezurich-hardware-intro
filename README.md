@@ -88,6 +88,8 @@ To connect it ([schematic](https://github.com/winkj/ess-hardware-docs/blob/maste
 
 To use the sensors, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the [examples](https://github.com/Sensirion/arduino-ess/blob/master/examples).
 
+<img src="https://live.staticflickr.com/65535/49607643343_59944102a7.jpg"/>
+
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 The Arduino Nano 33 BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.
 

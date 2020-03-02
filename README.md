@@ -84,7 +84,7 @@ To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Refer
 ### Measuring air quality with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
 
-To connect it ([schematic](https://github.com/winkj/ess-hardware-docs/blob/master/ESS_Schematic.PDF)) to the Nano you can use the [TODO]() or a [NanUno v2](https://www.thingiverse.com/thing:4171213) hardware adapter.
+To connect it ([schematic](https://github.com/winkj/ess-hardware-docs/blob/master/ESS_Schematic.PDF)) to the Nano you can use the [TODO]() or a [NanUno v3](https://www.thingiverse.com/thing:4196198) hardware adapter.
 
 To use the sensors, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the [examples](https://github.com/Sensirion/arduino-ess/blob/master/examples).
 

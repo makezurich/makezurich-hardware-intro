@@ -3,6 +3,8 @@ Introduction to some of the hardware available at [MakeZurich.ch](http://makezur
 
 Found a bug or have a question? [Submit an issue](../../issues).
 
+See also: [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).
+
 ## Arduino Nano 33 BLE Sense
 The [Arduino Nano 33 BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) is a microcontroller, a small computer that runs a single program.
 

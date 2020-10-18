@@ -111,7 +111,7 @@ To get your data from TTN, see [#MakeZurich software intro](https://github.com/m
 
 ### More Nano BLE 33 Sense Resources
 * Dale Giancono has a nice [collection of Nano BLE 33 Sense examples](https://dalegi.com/).
-* See also [Nano BLE 33 Sense projects on Hackster.io](https://www.hackster.io/search?q=Nano%20BLE%2033%20Sense&i=projects).
+* And there are quite some [Nano BLE 33 Sense projects on Hackster.io](https://www.hackster.io/search?q=Nano%20BLE%2033%20Sense&i=projects).
 
 ## Arduino Uno
 The [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) is a microcontroller.

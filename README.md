@@ -109,7 +109,7 @@ To connect the Murata board to the Nano you can use the [TODO]() hardware adapte
 
 To get your data from TTN, see [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).
 
-### Resources
+### More Nano BLE 33 Sense Resources
 * https://dalegi.com/ has a nice collection of examples for the Nano BLE 33 Sense.
 
 ## Arduino Uno

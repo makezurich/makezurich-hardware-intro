@@ -162,11 +162,14 @@ Its holes are connected under the hood in columns, plus two rows for ground (GND
 
 50x leds, 1x rgb led, 2x photoresistors, 1x thermistor, 5x diode rectifiers, 5x npn transistor, 1x IC 4N35, 1x IC 74HC595, 10x buttons, 2x buzzers (active and passive), 1x potentiometer, 10x 22pf c. caps, 10x 104 c. caps, 5x e. caps 10uf, 5x e caps 100uf, 100x resistors (5x of each: 10R, 100R, 220R, 330R, 1K, 2K, 5K, 10K, 100K, 1M, pin headers).
 
+### Level shifter 3.3 to 5V
+[Level shifters](https://www.aliexpress.com/item/32690066582.html) are required to connect 3.3V modules to an Arduino Uno which uses 5V logic.
+
 ### Soldering
 [Soldering is easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf), there are soldering stations and helping hands at the Bitwäscherei space.
 
-### Level shifter 3.3 to 5V
-[Level shifters](https://www.aliexpress.com/item/32690066582.html) are required to connect 3.3V modules to an Arduino Uno which uses 5V logic.
+### PCB etching
+Etching PCBs is possible at the Bitwäscherei space.
 
 ## License
 This tutorial by [MakeZurich.ch](http://makezurich.ch/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

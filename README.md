@@ -169,7 +169,7 @@ Its holes are connected under the hood in columns, plus two rows for ground (GND
 [Soldering is easy](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf), there are soldering stations and helping hands at the Bitwäscherei space.
 
 ### PCB etching
-Etching PCBs is possible at the Bitwäscherei space.
+Etching PCBs is possible at the Bitwäscherei space, try any Tuesday from 8pm.
 
 ## License
 This tutorial by [MakeZurich.ch](http://makezurich.ch/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

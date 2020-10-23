@@ -144,6 +144,9 @@ To use it, install the [Sensirion ESS library](https://github.com/Sensirion/ardu
 ### Sending data to TheThingsNetwork with the Dragino LoRaWAN shield
 Follow the steps in [LoRaWAN IoT with Arduino Uno](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF, p.42 - p.63).
 
+## LoRaWAN Gateway
+The included gateway is a [Tabs Hub](https://miromico.ch/wp-content/uploads/2019/11/Tabs_Hub.pdf) that works with [TheThingsNetwork](https://thethingsnetwork.org/).
+
 ## Electronics
 The following electronic components are part of the MakeZurich kit.
 

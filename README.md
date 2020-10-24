@@ -26,7 +26,9 @@ Then select *Tools > Board > Arduino Mbed OS Boards (nRF52840 / STM32H747) > Ard
 
 Now connect the Nano BLE 33 Sense to your computer via USB and select it in the *Tools > Port* menu.
 
-Finally, open *File > Examples > Basics > Blink* and click the ⮕ *Upload* button. (Driver issues? Check the guide above.)
+Finally, open *File > Examples > Basics > Blink* and click the ⮕ *Upload* button.
+
+(Driver issues? Check the guide above or try pressing reset before upload.)
 
 ### Learning the Arduino language
 The [Arduino language](https://www.arduino.cc/reference/en/) is very similar to C, libraries are written in C++.

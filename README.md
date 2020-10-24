@@ -113,13 +113,13 @@ How to connect the UART pins (more soon).
 
 <img src="https://live.staticflickr.com/65535/50461790688_8b01f7b434.jpg" width="512"/>
 
-    GPIO|FTDI
-    -|-
-    PA10 (RX)| TXD
-    PA9 (TX)| RXD
-    PB8 (CMD)| RTS
-    PA8 (BUSY)|  CTS
-    GND|GND
+GPIO <-> FTDI
+-------------
+PA10 <--> TXD
+PA09 <--> RXD
+PB08 <--> RTS
+PA08 <--> CTS
+GND  <--> GND
 
 ### More Nano BLE 33 Sense resources
 * Dale Giancono has a nice [collection of Nano BLE 33 Sense examples](https://dalegi.com/).

@@ -1,10 +1,11 @@
 # https://tamberg.mit-license.org/
 
+# Ask Gonzalo for modem.py library
 # $ pip install pyserial
 # $ python modem_test.py
 
 import sys
-from modem import Modem # Ask Diego or Gonzalo
+from modem import Modem
 from modem import CommandError
 import modemdefs as ModemDefs
 import time

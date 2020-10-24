@@ -24,7 +24,7 @@ Or just open *Tools > Board > Board Manager...* and add the *Arduino nRF528x Boa
 
 Then select *Tools > Board > Arduino Mbed OS Boards (nRF52840 / STM32H747) > Arduino NANO 33 BLE*
 
-Now plug in the Nano via USB and select it in the *Tools > Port* menu.
+Now connect the Nano BLE 33 Sense to your computer via USB and select it in the *Tools > Port* menu.
 
 Finally, open *File > Examples > Basics > Blink* and click the ⮕ *Upload* button. (Driver issues? Check the guide above.)
 

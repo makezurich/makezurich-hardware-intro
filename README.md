@@ -50,7 +50,7 @@ void loop() { // runs forever
 ```
 
 ### Using the #MakeZurich 2020 badge
-The #MakeZurich 2020 badge has 11 individually controllable Neopixel multicolor LEDs and a [SAO](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/) connector.
+The [#MakeZurich 2020 badge](https://twitter.com/makezurich/status/1319979676459216896) has 11 individually controllable Neopixel multicolor LEDs and a [SAO](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/) connector.
 
 Try this [Corona app scanner example](Arduino/Neno33BleSense_CoronaAppScanner/Neno33BleSense_CoronaAppScanner.ino), it requires the [Adafruit_NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) and the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE).
 

@@ -47,6 +47,8 @@ void loop() { // runs forever
 }
 ```
 
+Got the #MakeZurich 2020 badge? Try this [Corona app scanner example](Arduino/Neno33BleSense_CoronaAppScanner/Neno33BleSense_CoronaAppScanner.ino).
+
 ### Installing a library for the Nano
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 

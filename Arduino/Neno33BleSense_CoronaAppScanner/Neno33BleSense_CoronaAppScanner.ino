@@ -1,6 +1,6 @@
 // http://tamberg.mit-license.org/
 
-// for a safer #badgelife at https://makezurich.ch/
+// for a safer #badgelife at https://makezurich.ch/ 2020
 // based on https://steigerlegal.ch/2020/07/06/swisscovid-app-bluetooth
 // and https://github.com/arduino-libraries/ArduinoBLE/blob/master/examples/Central/Scan/Scan.ino
 // and https://github.com/adafruit/Adafruit_NeoPixel/blob/master/examples/strandtest/strandtest.ino

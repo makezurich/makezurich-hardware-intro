@@ -115,6 +115,8 @@ How to connect the UART pins (more soon).
 
 PA10 (RX) <-> TX, PA09 (TX) <-> RX, PB08 <-> RTS, PA08 <-> CTS, GND  <-> GND, 3V <-> VIN
 
+Python [example code](Python/modem_test.py) (more soon).
+
 ### More Nano BLE 33 Sense resources
 * Dale Giancono has a nice [collection of Nano BLE 33 Sense examples](https://dalegi.com/).
 * And there are quite some [Nano BLE 33 Sense projects on Hackster.io](https://www.hackster.io/search?q=Nano%20BLE%2033%20Sense&i=projects).

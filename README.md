@@ -20,9 +20,9 @@ The IDE (integrated development environment) is a simple tool to write, build an
 ### Getting started with the Nano
 Follow this guide to [get started with the Arduino Nano 33 BLE Sense](https://www.arduino.cc/en/Guide/NANO33BLESense#toc2).
 
-Or just open *Tools > Board > Board Manager...* and add the *Arduino nRF528x Boards* package.
+Or just open *Tools > Board > Board Manager...* and add the *Arduino nRF528x Boards (Mbed OS)* package.
 
-Then select *Tools > Board > Arduino NANO 33 BLE*, plug in the Nano via USB and select it in the *Tools > Port* menu.
+Then select *Tools > Board > Arduino Mbed OS Boards (nRF52840 / STM32H747) > Arduino NANO 33 BLE*, plug in the Nano via USB and select it in the *Tools > Port* menu.
 
 Finally, open *File > Examples > Basics > Blink* and click the ⮕ *Upload* button. (Driver issues? Check the guide above.)
 

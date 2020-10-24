@@ -50,7 +50,7 @@ void loop() { // runs forever
 ### Using the #MakeZurich 2020 badge
 The #MakeZurich 2020 badge has 11 individually controllable Neopixel multicolor LEDs and a [SAO](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/) connector.
 
-Try this [Corona app scanner example](Arduino/Neno33BleSense_CoronaAppScanner/Neno33BleSense_CoronaAppScanner.ino), it requires the [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) and [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE) library.
+Try this [Corona app scanner example](Arduino/Neno33BleSense_CoronaAppScanner/Neno33BleSense_CoronaAppScanner.ino), it requires the [Adafruit_NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) and the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE).
 
 ### Installing a library for the Nano
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).

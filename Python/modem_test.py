@@ -1,5 +1,8 @@
 # https://tamberg.mit-license.org/
 
+# $ pip install pyserial
+# $ python modem_test.py
+
 import sys
 from modem import Modem # Ask Diego or Gonzalo
 from modem import CommandError

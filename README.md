@@ -198,7 +198,7 @@ Its holes are connected under the hood in columns, plus two rows for ground (GND
 Etching PCBs is possible at the Bitwäscherei space, try any Tuesday from 8pm.
 
 ## Support
-#MakeZurich on the [Switzerland Slack](ttn-ch.slack.com).
+#MakeZurich on the [TTN Switzerland Slack](ttn-ch.slack.com).
 
 ## License
 This tutorial by [MakeZurich.ch](http://makezurich.ch/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

@@ -170,7 +170,7 @@ It's configured as a LoRaWAN gateway, TrackNet/Tabs features and WiFi access poi
 
 Plug it in via Ethernet, it will open a standard, outgoing UDP connection to [TheThingsNetwork](https://thethingsnetwork.org/).
 
-The EUI is printed on the back, e.g. for 580011AABBCC register 580011FFFEAABBCC in [TTN](https://thethingsnetwork.org/).
+The EUI is on its back, e.g. for 580011AABBCC register 580011*FFFE*AABBCC in the [TTN console](https://console.thethingsnetwork.org/gateways).
 
 ## Electronics
 The following electronic components are part of the MakeZurich kit.

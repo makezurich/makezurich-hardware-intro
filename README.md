@@ -66,7 +66,7 @@ Then check the *File > Examples > LIBRARY_NAME* menu in the Arduino IDE.
 ### Measuring humidity and temperature with the Nano
 The Arduino Nano 33 BLE Sense has a humidity and temperature sensor, the [HTS221](https://www.st.com/resource/en/datasheet/HTS221.pdf).
 
-To use it, install the [ArduinoHTS221 library](https://www.arduino.cc/en/Reference/ArduinoHTS221) and check the [examples](https://github.com/arduino-libraries/Arduino_HTS221/blob/master/examples).
+To use it, install the [ArduinoHTS221 library](https://www.arduino.cc/en/Reference/ArduinoHTS221) and check the [examples](https://github.com/arduino-libraries/Arduino_HTS221/tree/master/examples).
 
 ### Measuring barometric pressure with the Nano
 The Arduino Nano 33 BLE Sense has a barometric pressure sensor, the [LPS22HB](https://www.st.com/resource/en/datasheet/lps22hb.pdf).
@@ -78,19 +78,19 @@ The Arduino Nano 33 BLE Sense has a 9-axis inertial measuring unit (IMU) built-i
 
 The [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) includes an accelerometer, a gyroscope and a magnetometer.
 
-To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the [examples](https://github.com/arduino-libraries/ArduinoLSM9DS1/blob/master/examples).
+To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the [examples](https://github.com/arduino-libraries/ArduinoLSM9DS1/tree/master/examples).
 
 ### Measuring noise and recording audio with the Nano
 The Arduino Nano 33 BLE Sense has a built-in microphone, the [MP34DT05](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf) which outputs [PDM signals](https://en.wikipedia.org/wiki/Pulse-density_modulation).
 
-To use it, install the [PDM library](https://www.arduino.cc/en/Reference/PDM) and the [ArduinoSound library](https://www.arduino.cc/en/Reference/ArduinoSound) and check the [examples](https://github.com/arduino-libraries/ArduinoSound/blob/master/examples).
+To use it, install the [PDM library](https://www.arduino.cc/en/Reference/PDM) and the [ArduinoSound library](https://www.arduino.cc/en/Reference/ArduinoSound) and check the [examples](https://github.com/arduino-libraries/ArduinoSound/tree/master/examples).
 
 ### Measuring gestures, color or proximity with the Nano
 The Arduino Nano 33 BLE Sense has a light intensity sensor, the [APDS9960](https://docs.broadcom.com/docs/AV02-4191EN).
 
 The multifunctional sensor can detect gestures, light color and proximity.
 
-To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the [examples](https://github.com/arduino-libraries/ArduinoAPDS9960/blob/master/examples).
+To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the [examples](https://github.com/arduino-libraries/Arduino_APDS9960/tree/master/examples).
 
 ### Measuring TVOC and CO2 with the Sensirion ESS-C3 shield
 The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.

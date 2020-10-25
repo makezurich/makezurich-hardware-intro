@@ -71,14 +71,14 @@ To use it, install the [ArduinoHTS221 library](https://www.arduino.cc/en/Referen
 ### Measuring barometric pressure with the Nano
 The Arduino Nano 33 BLE Sense has a barometric pressure sensor, the [LPS22HB](https://www.st.com/resource/en/datasheet/lps22hb.pdf).
 
-To use it, install the [ArduinoLPS22HB library](https://www.arduino.cc/en/Reference/ArduinoLPS22HB) and check the [examples](https://github.com/arduino-libraries/ArduinoLPS22HB/blob/master/examples).
+To use it, install the [ArduinoLPS22HB library](https://www.arduino.cc/en/Reference/ArduinoLPS22HB) and check the [examples](https://github.com/arduino-libraries/Arduino_LPS22HB/tree/master/examples).
 
 ### Measuring orientation in space of the Nano
 The Arduino Nano 33 BLE Sense has a 9-axis inertial measuring unit (IMU) built-in.
 
 The [LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf) includes an accelerometer, a gyroscope and a magnetometer.
 
-To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the [examples](https://github.com/arduino-libraries/ArduinoLSM9DS1/tree/master/examples).
+To use it, install the [ArduinoLSM9DS1 library](https://www.arduino.cc/en/Reference/ArduinoLSM9DS1) and check the [examples](https://github.com/arduino-libraries/Arduino_LSM9DS1/tree/master/examples).
 
 ### Measuring noise and recording audio with the Nano
 The Arduino Nano 33 BLE Sense has a built-in microphone, the [MP34DT05](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf) which outputs [PDM signals](https://en.wikipedia.org/wiki/Pulse-density_modulation).

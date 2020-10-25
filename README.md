@@ -168,7 +168,7 @@ The included gateway is a [Tabs Hub](https://miromico.ch/wp-content/uploads/2019
 
 It's configured as a LoRaWAN gateway, TrackNet/Tabs features and WiFi access point are disabled.
 
-Plug it in via Ethernet, it will open a standard, outgoing UDP connection to [TheThingsNetwork](https://thethingsnetwork.org/).
+Plug it in via Ethernet, it will open a secure, outgoing connection to [TheThingsNetwork](https://thethingsnetwork.org/).
 
 The EUI is on its back, e.g. for 580011AABBCC register 580011*FFFE*AABBCC in the [TTN console](https://console.thethingsnetwork.org/gateways).
 

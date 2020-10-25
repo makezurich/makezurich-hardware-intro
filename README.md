@@ -54,6 +54,8 @@ The [#MakeZurich 2020 badge](https://twitter.com/makezurich/status/1319979676459
 
 Try this [Corona app scanner example](Arduino/Neno33BleSense_CoronaAppScanner/Neno33BleSense_CoronaAppScanner.ino), it requires the [Adafruit_NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) and the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE).
 
+**NOTE: Please unplug the battery before plugging the USB cable to flash the board!**
+
 ### Installing a library for the Nano
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 

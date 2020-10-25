@@ -54,7 +54,7 @@ The [#MakeZurich 2020 badge](https://twitter.com/makezurich/status/1319979676459
 
 Try this [Corona app scanner example](Arduino/Neno33BleSense_CoronaAppScanner/Neno33BleSense_CoronaAppScanner.ino), it requires the [Adafruit_NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) and the [ArduinoBLE library](https://github.com/arduino-libraries/ArduinoBLE).
 
-Note: Please unplug the battery before plugging the USB cable to flash the board.
+Note: Please disconnect the badge battery before plugging the USB cable into the Nano BLE 33 Sense.
 
 <img src="MakeZurich2020BadgePinout.png"/>
 

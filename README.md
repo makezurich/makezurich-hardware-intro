@@ -166,6 +166,11 @@ Follow the steps in [LoRaWAN IoT with Arduino Uno](http://www.tamberg.org/chopen
 ## LoRaWAN Gateway
 The included gateway is a [Tabs Hub](https://miromico.ch/wp-content/uploads/2019/11/Tabs_Hub.pdf) that works with [TheThingsNetwork](https://thethingsnetwork.org/).
 
+**Regarding security:**
+
+The device is configured to be just a LoRaWAN gateway, and all TrackNet/Tabs features are disabled, specifically the WiFi access point / repeater behavior is not active.
+In terms of security, it *should* be rather safe considering all extra features are disabled it, the device should have the same network behavior of the open source DIY gateways based on Raspberry Pi and the legacy packet forwarder (in which a simple outgoing UDP connection is opened to the TTN router and no incoming connection is possible).
+
 ## Electronics
 The following electronic components are part of the MakeZurich kit.
 

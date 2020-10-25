@@ -168,7 +168,7 @@ The included gateway is a [Tabs Hub](https://miromico.ch/wp-content/uploads/2019
 
 It's configured as a LoRaWAN gateway, TrackNet/Tabs features and WiFi access point are disabled.
 
-Plug it in via Ethernet, it opens an outgoing USP connection to [TheThingsNetwork](https://thethingsnetwork.org/).
+Plug it in via Ethernet, it opens an outgoing UDP connection to [TheThingsNetwork](https://thethingsnetwork.org/).
 
 ## Electronics
 The following electronic components are part of the MakeZurich kit.

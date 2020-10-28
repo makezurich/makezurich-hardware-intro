@@ -126,7 +126,15 @@ Wire it to the Nano BLE 33 Sense (or any device with 3.3V UART):
 
 <img src="NanoMurataWiring.png" width="512"/>
 
-PA10 (RX) <-> TX, PA09 (TX) <-> RX, PB08 <-> RTS, PA08 <-> CTS, GND  <-> GND, 3V <-> VIN
+Nano|Murata
+:---|:---
+TX|PA10 (RX)
+RX|PA09 (TX)
+RTS|PB08
+CTS|PA08
+GND|GND
+
+Power both boards via USB.
 
 The board runs Semtech's LoRaWAN soft modem, here's a detailed [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
 

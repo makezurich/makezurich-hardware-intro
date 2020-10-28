@@ -156,7 +156,7 @@ Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Gui
 Then check the *File > Examples > LIBRARY_NAME* menu in the Arduino IDE.
 
 ### Measuring air quality with the Sensirion ESS-C3 shield
-The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
+The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2eq.
 
 To use it, install the [Sensirion ESS library](https://github.com/Sensirion/arduino-ess) and check the [examples](https://github.com/Sensirion/arduino-ess/blob/master/examples).
 

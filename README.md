@@ -136,7 +136,7 @@ D3 (RTS)|PB08
 D2 (CTS)|PA08
 GND|GND
 
-The board runs Semtech's LoRaWAN soft modem, here's a detailed [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
+The Murata board runs Semtech's LoRaWAN soft modem, here is the [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
 
 A Python library is available on demand, check this [example](Python/modem_test.py).
 

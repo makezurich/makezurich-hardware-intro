@@ -118,6 +118,8 @@ To use it, follow [this tutorial](https://www.arduino.cc/en/Reference/ArduinoBLE
 ### Sending data to TheThingsNetwork with the Murata LoRaWAN board
 The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN).
 
+The module runs Semtech's LoRaWAN soft modem. [See reference manual for details](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
+
 To connect the Murata board, see the picture below, and use the [LoRaWANModem library](https://github.com/2ni/lorawan_modem/) by [@2ni](https://twitter.com/2ni).
 
 To get your data from TTN, see [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).

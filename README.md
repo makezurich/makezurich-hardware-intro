@@ -124,7 +124,7 @@ To get your data from the TTN backend, see [#MakeZurich software intro](https://
 
 Wire it to the Nano BLE 33 Sense (or any device with 3.3V UART):
 
-<img src="https://live.staticflickr.com/65535/50461790688_8b01f7b434.jpg" width="512"/>
+<img src="nano-murata-wiring.png" width="512"/>
 
 PA10 (RX) <-> TX, PA09 (TX) <-> RX, PB08 <-> RTS, PA08 <-> CTS, GND  <-> GND, 3V <-> VIN
 

@@ -132,8 +132,8 @@ Nano|Murata
 :---|:---
 TX|PA10 (RX)
 RX|PA09 (TX)
-RTS|PB08
-CTS|PA08
+D3 (RTS)|PB08
+D2 (CTS)|PA08
 GND|GND
 
 The board runs Semtech's LoRaWAN soft modem, here's a detailed [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).

@@ -118,19 +118,19 @@ To use it, follow [this tutorial](https://www.arduino.cc/en/Reference/ArduinoBLE
 ### Sending data to TheThingsNetwork with the Murata LoRaWAN board
 The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN).
 
-The module runs Semtech's LoRaWAN soft modem. [See reference manual for details](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
-
 To connect the Murata board, see the picture below, and use the [LoRaWANModem library](https://github.com/2ni/lorawan_modem/) by [@2ni](https://twitter.com/2ni).
 
 To get your data from TTN, see [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).
 
-How to connect the UART pins (more soon).
+How to connect the UART pins:
 
 <img src="https://live.staticflickr.com/65535/50461790688_8b01f7b434.jpg" width="512"/>
 
 PA10 (RX) <-> TX, PA09 (TX) <-> RX, PB08 <-> RTS, PA08 <-> CTS, GND  <-> GND, 3V <-> VIN
 
-Python [example code](Python/modem_test.py) (more soon).
+The module runs Semtech's LoRaWAN soft modem, for details, see [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
+
+A Python library is available on demand, here's an [example](Python/modem_test.py).
 
 ### More Nano BLE 33 Sense resources
 * Dale Giancono has a nice [collection of Nano BLE 33 Sense examples](https://dalegi.com/).

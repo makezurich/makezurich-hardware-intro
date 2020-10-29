@@ -1,3 +1,8 @@
+"""
+Copyright (C) Gonzalo Casas 2020
+Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
+"""
+
 CMD_GETEVENT         = 0x00
 CMD_GETVERSION       = 0x01
 CMD_RESET            = 0x02

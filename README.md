@@ -58,6 +58,8 @@ Note: Please disconnect the badge battery before plugging the USB cable into the
 
 <img src="MakeZurich2020BadgePinout.png"/>
 
+Here are the [schematics](https://gitlab.com/make-zurich/badge-2020).
+
 ### Installing a library for the Nano
 Follow these steps to [install an Arduino library](https://www.arduino.cc/en/Guide/Libraries).
 

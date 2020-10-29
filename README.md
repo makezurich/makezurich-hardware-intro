@@ -182,9 +182,7 @@ To use the board as a modem, copy [modemdefs.py](Python/modemdefs.py) and [modem
 
 To get your data from the TTN backend, see [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).
 
-Wire it to the Nano BLE 33 Sense (or any device with 3.3V UART):
-
-<img src="NanoMurataWiring.png" width="512"/>
+Wire it to the Raspberry Pi (or any device with 3.3V UART):
 
 Power both boards via USB.
 

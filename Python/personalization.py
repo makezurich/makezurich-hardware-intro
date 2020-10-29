@@ -4,9 +4,9 @@ Run it only once during comissioning, keys are persistent.
 import sys
 from modem import Modem
 
-DEVEUI = 'FFFFFFAADC22E62A'
-APPEUI = "70B3D57EF00037C8"
-APPKEY = "732D3CF798E045E1537281860FE92217"
+DEVEUI = 'REPLACEME'
+APPEUI = "REPLACEME"
+APPKEY = "REPLACEME"
 
 ser_port = sys.argv[1] if len(sys.argv) == 2 else '/dev/ttyUSB0'
 

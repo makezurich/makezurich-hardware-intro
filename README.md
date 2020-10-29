@@ -188,12 +188,12 @@ Wire it to the Raspberry Pi (or any device with 3.3V UART):
 
 Power both boards via USB.
 
-Nano|Murata
+Pi|Murata
 :---|:---
 TX|PA10 (RX)
 RX|PA09 (TX)
-D3 (RTS)|PB08
-D2 (CTS)|PA08
+? (RTS)|PB08
+? (CTS)|PA08
 GND|GND
 
 The Murata board runs Semtech's LoRaWAN soft modem, here is the [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).

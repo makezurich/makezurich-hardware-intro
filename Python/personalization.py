@@ -1,4 +1,7 @@
 """
+Copyright (C) Gonzalo Casas 2020
+Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
+
 Run it only once during comissioning, keys are persistent. 
 """
 import sys

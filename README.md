@@ -96,8 +96,8 @@ The multifunctional sensor can detect gestures, light color and proximity.
 
 To use it, install the [ArduinoAPDS9960 library](https://www.arduino.cc/en/Reference/ArduinoAPDS9960) and check the [examples](https://github.com/arduino-libraries/Arduino_APDS9960/tree/master/examples).
 
-### Measuring TVOC and CO2 with the Sensirion ESS-C3 shield
-The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2.
+### Measuring TVOC and CO2eq with the Sensirion ESS-C3 shield
+The [Sensirion ESS-C3 shield](https://developer.sensirion.com/platforms/environmental-sensor-shield/) has environmental sensors to measure temperature, humidity, TVOC and CO2eq.
 
 To connect it ([schematic](https://github.com/winkj/ess-hardware-docs/blob/master/ESS_Schematic.PDF)) to the Nano you can use the [TODO]() or a [NanUno v3](https://www.thingiverse.com/thing:4196198) hardware adapter.
 

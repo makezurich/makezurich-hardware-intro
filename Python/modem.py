@@ -1,3 +1,8 @@
+"""
+Copyright (C) Gonzalo Casas 2020
+Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
+"""
+
 #
 # Utility class to exchange commands with modem connected via serial port (e.g. FTDI Serial-to-USB adapter).
 #

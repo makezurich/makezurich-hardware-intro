@@ -138,8 +138,6 @@ GND|GND
 
 The Murata board runs Semtech's LoRaWAN soft modem, here is the [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
 
-A Python library is available on demand, check this [example](Python/modem_test.py).
-
 ### More Nano BLE 33 Sense resources
 * Dale Giancono has a nice [collection of Nano BLE 33 Sense examples](https://dalegi.com/).
 * And there are quite some [Nano BLE 33 Sense projects on Hackster.io](https://www.hackster.io/search?q=Nano%20BLE%2033%20Sense&i=projects).
@@ -174,6 +172,31 @@ To use it, install the [Sensirion ESS library](https://github.com/Sensirion/ardu
 
 ### Sending data to TheThingsNetwork with the Dragino LoRaWAN shield
 Follow the steps in [LoRaWAN IoT with Arduino Uno](http://www.tamberg.org/chopen/2018/LoRaWANIoTWorkshop.pdf) (PDF, p.42 - p.63).
+
+## Raspberry Pi
+
+### Sending data to TheThingsNetwork with the Murata LoRaWAN board
+The [Murata B-L072Z-LRWAN1 board](https://www.st.com/resource/en/data_brief/b-l072z-lrwan1.pdf) can be used as a modem to send data to [TheThingsNetwork](http://thethingsnetwork.org/) (TTN).
+
+To use the board as a modem, copy [modemdefs.py](Python/modemdefs.py) and [modem.py](Python/modem.py) and check [this example](Python/modem_test.py) or [this](Python/personalization.py), or [this](Python/fsm.py).
+
+To get your data from the TTN backend, see [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).
+
+Wire it to the Nano BLE 33 Sense (or any device with 3.3V UART):
+
+<img src="NanoMurataWiring.png" width="512"/>
+
+Power both boards via USB.
+
+Nano|Murata
+:---|:---
+TX|PA10 (RX)
+RX|PA09 (TX)
+D3 (RTS)|PB08
+D2 (CTS)|PA08
+GND|GND
+
+The Murata board runs Semtech's LoRaWAN soft modem, here is the [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).
 
 ## LoRaWAN Gateway
 The included gateway is a [Tabs Hub](https://miromico.ch/wp-content/uploads/2019/11/Tabs_Hub.pdf) that works with [TheThingsNetwork](https://thethingsnetwork.org/).

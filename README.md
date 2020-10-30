@@ -110,6 +110,14 @@ The [Sensirion SPS30 sensor](https://www.sensirion.com/en/environmental-sensors/
 
 To use the sensor, install the [Sensirion SPS30 I2C library](https://github.com/Sensirion/arduino-sps) and check the [examples](https://github.com/Sensirion/arduino-sps/tree/master/examples/sps30).
 
+### Measuring CO2 with the (optional) Sensirion SCD30 sensor
+
+The [SCD30 sensor](https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD30_Datasheet.pdf) allows measuring CO2.
+
+To use the sensor, install the [SparkFun SPS30 I2C library](https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library) and check the [examples](https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library/tree/master/examples).
+
+<img src="NanoSDC30Wiring.png" width="512"/>
+
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 The Arduino Nano 33 BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.
 

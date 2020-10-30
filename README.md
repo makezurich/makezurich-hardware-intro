@@ -184,7 +184,7 @@ To use the board as a modem, copy [modemdefs.py](Python/modemdefs.py) and [modem
 
 To get your data from the TTN backend, see [#MakeZurich software intro](https://github.com/make-zurich/makezurich-software-intro).
 
-Wire it to the Raspberry Pi (or any device with 3.3V UART):
+Wire it to the Raspberry Pi (based on [this pinout](https://pinout.xyz/pinout/uart) and [this post](https://ethertubes.com/raspberry-pi-rts-cts-flow-control/)):
 
 <img src="RaspberryPiMurataWiring.png" width="512"/>
 

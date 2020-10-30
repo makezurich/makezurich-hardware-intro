@@ -194,8 +194,8 @@ Pi|Murata
 :---|:---
 TX|PA10 (RX)
 RX|PA09 (TX)
-? (RTS)|PB08
-? (CTS)|PA08
+RTS|PB08
+CTS|PA08
 GND|GND
 
 The Murata board runs Semtech's LoRaWAN soft modem, here is the [reference manual](LoRaWAN_Modem_Reference_Manual_v2.2.pdf).

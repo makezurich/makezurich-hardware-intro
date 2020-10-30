@@ -116,7 +116,7 @@ The [SCD30 sensor](https://www.sensirion.com/fileadmin/user_upload/customers/sen
 
 To use the sensor, install the [SparkFun SPS30 I2C library](https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library) and check the [examples](https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library/tree/master/examples).
 
-<img src="NanoSDC30Wiring.png" width="512"/>
+<img src="NanoSCD30Wiring.png" width="512"/>
 
 ### Sending data from the Nano with Bluetooth Low Energy (BLE)
 The Arduino Nano 33 BLE Sense has built-in Bluetooth Low Energy (BLE) connectivity.

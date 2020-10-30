@@ -186,6 +186,8 @@ To get your data from the TTN backend, see [#MakeZurich software intro](https://
 
 Wire it to the Raspberry Pi (or any device with 3.3V UART):
 
+<img src="RaspberryPiMurataWiring.png" width="512"/>
+
 Power both boards via USB.
 
 Pi|Murata
